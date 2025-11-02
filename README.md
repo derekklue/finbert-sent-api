@@ -8,11 +8,11 @@ This API takes financial text (e.g., news, earnings reports, SEC filings) and re
 
 Features
 
-Text-to-Sentiment API – Analyze short or long financial text
-FastAPI backend – Async, high-performance Python API
-Transformer-powered – Uses FinBERT (yiyanghkust/finbert-tone)
-Extensible – Easily swap in any other Hugging Face sentiment model
-Interactive Swagger UI – Auto-generated docs at /docs
+Text-to-Sentiment API – Analyze short or long financial text <br>
+FastAPI backend – Async, high-performance Python API <br>
+Transformer-powered – Uses FinBERT (yiyanghkust/finbert-tone) <br>
+Extensible – Easily swap in any other Hugging Face sentiment model <br>
+Interactive Swagger UI – Auto-generated docs at /docs <br>
 
 
 Model Information
