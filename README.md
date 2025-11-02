@@ -13,17 +13,6 @@ Transformer-powered – Uses FinBERT (yiyanghkust/finbert-tone)
 Extensible – Easily swap in any other Hugging Face sentiment model
 Interactive Swagger UI – Auto-generated docs at /docs
 
-finbert-api/
-│
-├── api/
-│   ├── main.py            # FastAPI app and endpoints
-│   ├── model_loader.py    # FinBERT model and prediction logic
-│   └── schemas.py         # Pydantic request/response models
-│
-├── requirements.txt       # Dependencies
-├── .gitignore
-└── README.md
-
 Model Information
 
 Model: yiyanghkust/finbert-tone
