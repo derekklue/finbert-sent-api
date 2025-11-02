@@ -26,6 +26,12 @@ Neutral <br>
 Negative <br>
 
 
-Live Demo (Coming Soon)
+Visuals: <br>
+<img width="679" height="607" alt="Screenshot 2025-11-02 at 3 59 27 PM" src="https://github.com/user-attachments/assets/9a492393-e83c-4ab1-a673-270735348fe3" />
+<img width="689" height="696" alt="Screenshot 2025-11-02 at 4 47 10 PM" src="https://github.com/user-attachments/assets/9661658d-d599-4960-83e7-91ec974c6b1d" />
+
+
+
+Live Demo (Coming Soon) <br>
 Deployment to Render / Hugging Face Spaces will be added soon.
 
