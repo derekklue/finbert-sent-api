@@ -21,7 +21,11 @@ Model: yiyanghkust/finbert-tone
 FinBERT is a domain-specific adaptation of BERT (Bidirectional Encoder Representations from Transformers) trained on financial text from corporate reports and news articles.
 
 Labels:
-Positive
-Neutral
-Negative
+Positive <br>
+Neutral <br>
+Negative <br>
+
+
+Live Demo (Coming Soon)
+Deployment to Render / Hugging Face Spaces will be added soon.
 
