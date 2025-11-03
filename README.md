@@ -17,7 +17,7 @@ Interactive Swagger UI – Auto-generated docs at /docs <br>
 
 Model Information
 
-Model: dereklu/finbert-local
+Model: dereklu/finbert-local <br>
 FinBERT is a domain-specific adaptation of BERT (Bidirectional Encoder Representations from Transformers) trained on financial text from corporate reports and news articles.
 
 Labels: <br>
