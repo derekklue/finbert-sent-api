@@ -4,7 +4,7 @@ import torch
 
 class FinBERTModel:
     def __init__(self):
-        model_name = "yiyanghkust/finbert-tone"
+        model_name = "derekblu/finbert-local"
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_name)
         self.labels = ["neutral", "positive", "negative"]
